@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[The] words of the everlasting and true Light, vvho is the eternal living God, and the King of saints, which he gave unto me his servant, to declare unto the inhabitants of the earth, and unto all such as have any true tender desires in them after righteousnesse, and truth. And this is the message which I have heard and received of God, and now in his power do I declare it unto you, that the true God is Light, and in him is no darknesse at all, and he onely hath immortality, and dwelleth in the light, and all the nations of them that are saved shall walk in his light; but unto the wilful and disobedient who are offended at the light, the light shall be a rock of offence, and a stone of stumbling, and a snare, a trap, and a ginn, and they shall be snared, and shall stumble and fall and be broken by it. / By George Fox the younger in the truth.</title>
+            <author>Fox, George, d. 1661.</author>
+         </titleStmt>
+         <extent>Approx. 20KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23187</idno><idno type="EEBO-CITATION">99890819</idno>
+  <idno type="VID">201151</idno>
+  <idno type="EEBO-PROQUEST">2248551131</idno>
+  
+            <idno type="OCLC"> 12581416</idno>
+            <idno type="STC">Wing F2021</idno>
+            <idno type="STC">Interim Tract Supplement Guide 4152.bb.132[21]</idno>
+            <idno type="STC">ESTC R6345</idno>
+            <idno type="PROQUEST">ocm99890819</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99890819e"/>
+            <note>(EEBO-TCP ; phase 2, no. B23187)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 201151)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; B12:1[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>[The] words of the everlasting and true Light, vvho is the eternal living God, and the King of saints, which he gave unto me his servant, to declare unto the inhabitants of the earth, and unto all such as have any true tender desires in them after righteousnesse, and truth. And this is the message which I have heard and received of God, and now in his power do I declare it unto you, that the true God is Light, and in him is no darknesse at all, and he onely hath immortality, and dwelleth in the light, and all the nations of them that are saved shall walk in his light; but unto the wilful and disobedient who are offended at the light, the light shall be a rock of offence, and a stone of stumbling, and a snare, a trap, and a ginn, and they shall be snared, and shall stumble and fall and be broken by it. / By George Fox the younger in the truth.</title>
+                  <author>Fox, George, d. 1661.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Simmons, at the Bull and Mouth near Aldersgate,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Item at B12:1[21] imperfect: cropped at head, affecting title and pagination.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends --  Doctrines --  Early works to 1800.</term>
+               <term type="topical_term">Light and darkness in the Bible --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:201151:1"/>
+            <pb facs="tcp:201151:1"/>
+            <p>WORDS Of the everlasting and True Light, VVho is the Eternal living God, and the King of Saints, which he gave unto me his servant, to de<g ref="char:EOLhyphen"/>clare unto the inhabitants of the earth, and unto all such as have any true tender desires in them after Righteousnesse, and truth.</p>
+            <p>And this is the message which I have heard and received o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> God, and now in his power do I declare it unto you, tha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the True God is Light, and in him is no darknesse at all and he onely hath immortality, and dwelleth in th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> light, and all the Nations of them that are saved shal<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> walkin his light; but unto the wilful and disobedient who are offended at the light, the light shall be a Rock o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> offence, and a stone of stumbling, and a snare, a trap, and a ginn, and they shall be snared, and shall stumble and fall and be broken by it.</p>
+            <p>By <hi>George Fox</hi> the younger in the Truth.</p>
+            <q>O Lord God of light and life, how excellent is thy Name to the Saints? we wil<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> rejoyce in thee the light, for with thee is the fountain of life, and in thy light shall we see light.</q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Simmons,</hi> at the Bull and Mouth near Aldersgate, 1659.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:201151:2"/>
+            <head>THE EPISTLE TO THE READER.</head>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>WHO ever thou art, be moderate, and take heed of disobeying, and despising the true light; for if thou dost, thou disobey<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st and dispisest the True and Eternal God, who is light, and that <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>s his Name, whereby he is and will be known in this age and ge<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eration.</p>
+            <p>Therefore stumble not at the Light which lighteneth every <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne which cometh into the World, for if thou doest, thou stum<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lest at God, his Name, at Christ the Word, by which all things was made, and are upheld, at the door, the way, the truth, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd the life, at the Rock, at the elect Stone, and these all are <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut one, and if thou stumble at these, what ever thou art, thou shalt be broken.</p>
+            <p>But they that obey and believe the true light, they shall be made children of the light, and shall be taught of God and shall walk in his Light.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:201151:2"/>
+            <p>HEarken, oh ye Nations! and give ear ye Inhabitants of the earth Thus saith the Lord God of Heaven and Earth, whose Nam<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is the Light, I am the Lord, and there is no other that can save, I th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> light created all things, and formed and made you all of the dust, and I breathed into you my Light, my Life, that ye with it should hav<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> been guided, and led in my wisdome, to have ordered all things which I have created, and to have ruled over them all, that I in you migh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> have been honoured and exalted over all the works of my hands, which I the light created; but from me the Light ye have departed▪ and ye have hearkened unto the subtil Serpent, which is the Devil who abode not in me the Light, the Life, the Truth, which created all things, whom I have cursed above all the beasts of the Earth, who is the Seed of Enmity, and ye hearkening unto him, he hath begot<g ref="char:EOLhyphen"/>ten you into Enmity against me the Light, and so hath begotten and led you into the Curse, and so he is become your Father and Leader, whom I have cursed, and all that ye bring forth and act in him. I have cursed, because it stands in the Enmity against me the Light yet I the Light have looked upon you, and pittied you, because of the loss that ye are come into, and the darkness that is come upon you all, through your departing from me the Light. And I the Eternal God hath sent him who was glorified with me before the World was, by whom I made the World, who is not without me, nor I without him, but he is in me, and I in him, and he, and I, and the Spirit that proceeds from us, are one being and substance. (Mark) I the eter<g ref="char:EOLhyphen"/>nal God hath sent him into the World, who was glorified with me before the World began, and he is called my Son, because he is the Express Image of my Glory, and bears my Name, the Light, the Life, the Truth, which is but one, and he is my Love unto you the World; and that is he that lets you see the Enmity and the dark<g ref="char:EOLhyphen"/>nesse that ye are in, and how ye are departed and gone from me the life; and for this end I have sent him a Light, that ye all through him the Light might believe, that so he who shews you (your) Sins, your enmity, your darkness, ye believing in him might receive power to come out of it, and that he might save you from the curse which ye went into, when ye hearkened to the Serpent, whom I have cursed who is become your leader; But I have sent you the Light to be your Leader, to lead you from the Serpen<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and out of all that which he hath led you into. (Mark) out of Enmi<g ref="char:EOLhyphen"/>ty against me, out of darkness, and so out of all unrighteous words and deeds, and thoughts: And I the Eternal God hath given my
+<pb facs="tcp:201151:3"/> Son, the Light, power to plague, and to judge, to eondemn, and to destroy all those that will not hear him, the Light, who makes manifest unto you your unrighteous words, deeds, &amp; thoughts, which the Serpent hath led you into; and because ye live in these, I cannot have fellowship with you, nor reveal my secrets unto you, but my anger is kindled against you; but if ye would hearken unto my love, the Light, which lets you see all that ever you have done, and own him to be your leader, and receive him, and give up yourselves to be guided by him, then you should feel his power in you, (which I have given him) to lead you out of enmity, and darkness, and the curse, and out of all sin, which was the cause of the curse, and so to destroy that nature in you, which the Serpent hath begotten ye into, and to beget you again into the nature of himself, the light, in whom I am well pleased, and then my anger would be turned away from you, and I should have fellowship with you again, as I had in the be<g ref="char:EOLhyphen"/>ginning, and the Serpents head ye should come to witness bruised (who drew and led you out of me the Life) and the tree of Life, which I shut you from (because of your disobedience, ye should come to know it and to feel it, and to feed upon it again, and I would de<g ref="char:EOLhyphen"/>light to do you good.</p>
+            <p>But oh ye disobedient! ye are far from this, because ye despise Me, my Son, my Spirit, who are one, who is light and life, which is not far from you; for the life giveth unto every one of you life and breath, and you and all things are upheld by me, the light, whose presence filleth heaven and earth; and I have long spared you, and my patience and long-suffering towards you have been exceeding large; but you in your imaginations hath put me a far off, and ye will not own me, the light, the life in you, because my appearance in you hath been, and yet is to make manifest sin and evil in you, and to check and reprove you for it, and to call you out of it; and there<g ref="char:EOLhyphen"/>fore you are offended at me; and you whom the Serpent, the Prince of the power of the Ayr hath led out of me, into airy imaginations; you scorn me, the light in you, and counts me a low, poor, weak thing, not worth the taking notice of, because I have been patient towards you, and have tenderly, meekly, and lovingly made mani<g ref="char:EOLhyphen"/>fest unto you sin, and evil, in its appearance, and hath reproved you for evil gently; therefore you have disobeyed me, and disho<g ref="char:EOLhyphen"/>noured me, and called me a natural light; and ye have said, the light am not able to save those that believe in me; and many of you hath got my words, which I the light spoke in my servants of old,
+<pb facs="tcp:201151:3"/> and ye in the enmity give other meanings to my words, and so with my words mixed with your own meanings and imaginations, ye fight against me the light and life within you, and so against my children, which bears testimony of me the light, who lighteth every one that cometh into the World; and these your iniquities I have long born, and you have grieved my spirit, which hath long strove with you, and I the life hath been oppressed in you, and by you: But verily my Spirit shal not alwayes strive with you, neither will I the light alwayes bear your iniquities; for verily I the Lord God Almighty, who a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the light, which hath made manifest your iniquities unto you, which some of you cals Natural, and say that those who are led and guid<g ref="char:EOLhyphen"/>ed by me the light within, which makes manifest sin, that they are guided by a spirit of error and delusion. (Mark) I wil make you know your blasphemy, and you shal know &amp; feel to your everlasting destru<g ref="char:EOLhyphen"/>ction, (if you speedily repent not) that I the light [which lets you see sin, and reproves you for it] am spiritual, and am the spirit of truth, who leads all those that receive me out of all error and delusion, into all truth: and i'le make you know, that I the light am a consuming fire, which none can quench; for now will I the light and life arise, who hath so gently reproved you for sin, and called you out of it, and hath so long suffered in you, and by you, as a Lamb, yea, I will arise, and ease me of my adversaries, I will not spare any that will not own me, the light, but I will overturn you all, without respect of persons, and I will give to every one according to the fruits of their doings. I matter not what name ye are called by, whether it be a King, or Protector, or Prince, or Noble, or Lord, or Judge, or Justice, or Parliament, or Priest, or Lawyer, or gathered Churches, or Army, or Gentry, or mean Men, or Beggers. (Mark) I the light made you all of one blood, I formed you all of the dust, I breathed into you the breath of Life, I gave you the light to lead you, and to order you, and that ye in it should have walked and ordered all things to my glorie; but many of you have sleighted me the light in you, and would not take councel of me, nor be ordered by me, but hath chosen to follow your own hearts lusts, and hath taken counsel of the Serpent, and hath chosen him to be your leader, and in his wisdom ye have walked, and by him ye have been ordered, and by him ye have ordered things to the dishonor of me, the light, whom many of ye calls natural. Mark, I the true Light will arise, and will plague and torment all you that disobey me, and wil not turn at my reproof; I will bring such heavy judgements upon you, as hath not
+<pb facs="tcp:201151:4"/> been felt; I will be a swift witness against all the wicked, I the light will stop the mouths of vain talkers, I will confound the wisdome of wise men, I will make diviners mad, I will bring down the high lofty spirits of men. I will make ye bow unto my Name the light; you shall feel it is not natural nor weak (as some of you have said of it) for it shall break you to pieces, and all your profession and wis<g ref="char:EOLhyphen"/>dome, which is out of the Light, I the light (in you) will confound it all, i'le break all Sects and opinions, and gathered Churches (so called) which are not in me; I the light in you, will take away all peace from the earth, yea, ile bring you to your wits ends, i'le burn your heavens, all your joy, your peace, your righteousnesse, which stands in the power of darknesse; I the light in you will consume it all; i'le burn heaven and earth, ile burn within and without, ile strike with astonishment, with fear and amazement, with madness and destruction; ile bring plagues within, and plagues without, until I have consumed all you mine enemies, who will not own me the light within: I the light will overturn Kingdoms, and Nations, and Rulers of all sorts, and Armies, and gathered Churches, which will not own me the light in them, to guide and lead them.</p>
+            <p>Woe unto the murtherers, whoremongers, thieves, drunkards, cheaters, swearers, lyars, hunters, gamesters, vain-talkers, and all workers of iniquity, who hates me the light, which hath made manifest your abhominations, and reproved you for them: I have been pressed with your iniquities, but I the light will arise upon you, and if ye will not hear and return speedilie, ile fall upon you, and grind you to powder; and all, both high and low, rich and poor, professors, or not professors, and all time-observers, who will not own me the light in you, and return to me the light, I will make no difference of you, because of your names or places, but I will break you to pieces like a potters vessel, ile tread you like mire and clay in the streets, and ile make you know, that I the light (which light<g ref="char:EOLhyphen"/>eth every man which cometh into the World, that all through me should believe) am the true eternal God, which created all things, and that by me the light all things are upheld, and that there is not another beside me that can save, for I will famish all the Gods of the Heathen, and destroy them, and those that worship them, and will not repent and turn unto me the true light, ile make short work, I will cut it short in righteousnesse, and I the light will be ex<g ref="char:EOLhyphen"/>alted over all the earth, and ile prove my self to be stronger then all in this generation.</p>
+            <pb n="7" facs="tcp:201151:4"/>
+            <p>And all you who are scoffers and scorners, who scoffes &amp; scorns at my children, who in this the day of my power, hath trembled at my word, Mark, ile make you assuredlie to tremble and quake, yea, you who have despised me the light, and have scoffed at my workings in my people, I the Light in you will make you to drink the cup of trembling, and ye shall not be able to resist it, and then ye shall know that I the light am he that will work, and none shall be able to stop me, yea, I the everlasting light will wound, and none shall be able to heal; I will kill, and none shall be able to make alive: There<g ref="char:EOLhyphen"/>fore consider what I say before the day of your visitation be whollie past, and return unto me the light in you, and repent, lest my long patience come to an end, and so I destroy you utterlie.</p>
+            <p>Now all people, in whom there are any true tender desires after truth and righteousnesse, I the true Light in you did beget them, and if ye will hearken unto me, the Light in you, I will let you see all that which doth oppresse those desires in you; and I will not one<g ref="char:EOLhyphen"/>lie shew you that which doth oppresse those desires in you, but I the Light (if ye will receive me, and learn of me) will teach you to de<g ref="char:EOLhyphen"/>nie, and to resist all that which is contrary unto me, which doth op<g ref="char:EOLhyphen"/>presse that which I have begotten in you; and if ye will believe, and wait in me the light, I will give you power to resist all that which is contrary unto me, and I will destroy all the works of the Serpent in you, and bruise his head, and I will purge out all your iniquities, and forgive all your trespasses, and I will change your nature, and I will make you new creatures, if ye will hearken unto me, and obey me the Light in you; and I will make you partakers of my Divine Na<g ref="char:EOLhyphen"/>ture; and I will judge, and condemn, and consume all that in you which is contrary to my Nature, if ye will abide in me the Light; and I will take away all darkness, &amp; earthly-mindedness, &amp; I will re<g ref="char:EOLhyphen"/>veal my secrets and mysteries unto my seed in you, &amp; I will cause you to delight alone in me the Light of Life, and I will feed you with the Bread of Life, and ye shall drink of my Life, and ye shall be satisfied; and I will manifest my power more and more in you; and if ye will be faithful unto me, and obey my voice, and wait upon me the Light, then I will make the crooked waies strait before you, and the rough waies smooth, and I will destroy the power of darknesse within and without you, and if ye will follow me, I will lead you out of the World, and Wordlie cares, into patience, into meekness, and into stilness and quietness of spirit; and whatsoever you suffer for my Names sake, I will be your exceeding great reward, and I will be your dread, and ye shall be the dread of Nations, and I will be your
+<pb facs="tcp:201151:5"/> glorie, and ye shall be the glorie of Nations, and I will reign over you, and ye shall reign over all the World, in my Light, and Life, and Power; and if ye continue in me the Light, I will give you do<g ref="char:EOLhyphen"/>minion over all your enemies, within and without you, and I will make them all bow before you; and I the Lord God of Light and Life will be your Redeemer, and Saviour, your Rock, your Shield, and your defence, and if ye will wait in my life, it shall be your life, and I the Life will destroy the destroyer within and without you, and I will bring you out of all trouble, and restlesness, and dissatisfacti<g ref="char:EOLhyphen"/>on, and I will be your peace, and your rest, and your satisfaction, and ye shall lie down in me the Light of Life, and none shall make you a<g ref="char:EOLhyphen"/>fraid. These things shall you come to witnesse in the work of your regeneration, and much more then is here expressed, if ye be faith<g ref="char:EOLhyphen"/>ful unto me the true light in you, who have no fellowship with any thing that is evil; and then I will purge all evil out of you, and e<g ref="char:EOLhyphen"/>ven as I am, so shall ye be also; yea, I will work this work, and per<g ref="char:EOLhyphen"/>fect it in you, if ye continue and abide in me the light.</p>
+            <p>Now if any should say, that here is nothing spoken of Christ, in what I have here written; I answer, what I have here written, is the words which the Father, who is one with Christ the Son, gave unto me to write, in which words the true Christ is owned, and a testimo<g ref="char:EOLhyphen"/>nie given of him, and no other.</p>
+            <p>But further, in the fear and wisdom of God, for the satisfaction of the simple, I do declare in plain words, that I do believe in the true Christ, the Lord of Life, who was glorified with the Father be<g ref="char:EOLhyphen"/>fore the World began; and I do believe that he was in due time made manifest in that bodie of flesh, who wa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> called Jesus, and that in him the fulnesse of the Godhead dwelt bodilie, who was supposed to be the Carpenters Son, whom the Jews crucified without the gates of <hi>Jerusalem;</hi> and I have remission of sins through his blood, who is the Lord of Life, and he was buried, but he is risen, and ascended, and sits on the right hand of the Majestie on high: <hi>This is the Christ I own, who also was, and is crucified in <hi>Sodom</hi> and <hi>Aegypt</hi> by the rebellious, yea, he is crucified a fresh, and put to open shame now, by those that trample the blood of the Covenant, the Light of Life under their feet, and counts it an unholy or a natu<g ref="char:EOLhyphen"/>ral thing, and such acts despitefully against the Spirit of Grace; and such murthers the Seed which keeps the commands of God; and such will God the light overthrow and burn to ashes, as he did <hi>Sodom</hi> and <hi>Gomorrah;</hi> but all that loves and obeys the true light (which is the fire) shall be saved and preserved by it, and shall remain unhrut, but all that hates and disobeys the light in them, that is their condemnation, the light.</hi>
+            </p>
+            <p>
+               <hi>These are faithful and true sayings, and things also that must shortly come to passe, and he witnessed.</hi>
+            </p>
+         </div>
+         <trailer>THE END.</trailer>
+      </body>
+   </text>
+</TEI>
